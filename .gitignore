@@ -1,0 +1,9 @@
+.idea
+target
+*.iml
+/database/data/*
+/database/bin/*
+!/database/data/README
+ahromadnyExport.xml
+bhromadnyExport.xml
+hromadnyExport.xml
